@@ -1,0 +1,14 @@
+/Users/tayasjahyoung/TechStuff/bin/Debug/net9.0/TechStuff
+/Users/tayasjahyoung/TechStuff/bin/Debug/net9.0/TechStuff.deps.json
+/Users/tayasjahyoung/TechStuff/bin/Debug/net9.0/TechStuff.runtimeconfig.json
+/Users/tayasjahyoung/TechStuff/bin/Debug/net9.0/TechStuff.dll
+/Users/tayasjahyoung/TechStuff/bin/Debug/net9.0/TechStuff.pdb
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.AssemblyInfoInputs.cache
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.AssemblyInfo.cs
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.csproj.CoreCompileInputs.cache
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.dll
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/refint/TechStuff.dll
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.pdb
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/TechStuff.genruntimeconfig.cache
+/Users/tayasjahyoung/TechStuff/obj/Debug/net9.0/ref/TechStuff.dll
