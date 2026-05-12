@@ -53,9 +53,22 @@ class Program
         Console.Write("Enter quantity: ");
         int quantity = int.Parse(Console.ReadLine());
 
-        inventory.Add(new Item(name, quantity)); // creates new item and adds it to the list
+        Item existingItem = inventory.Find(item =>// this checks to see if items already exists
+        item.Name.ToLower() == name.ToLower()); // checks lowercase/uppercase
 
-        Console.WriteLine($"{name} added to inventory.");
+        if (existingItem != null)
+        {
+            existingItem.Quantity += quantity;
+
+            Console.WriteLine($"Updated {name} quantity.");
+        }
+        else
+
+        {
+            inventory.Add(new Item(name, quantity)); // creates new item and adds it to the list
+
+            Console.WriteLine($"{name} added to inventory.");
+        }
     }
 
     static void RemoveItem()
